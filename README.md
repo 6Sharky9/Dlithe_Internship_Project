@@ -1,1 +1,2 @@
-# Dlithe_Internship_Project
+# Internship-DLITHE
+Internship Dlithe
